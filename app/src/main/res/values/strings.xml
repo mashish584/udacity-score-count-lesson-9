@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Cricket Score</string>
+    <string name="sample_score">25-1</string>
+    <string name="sample_over">Overs : 0.1</string>
+    <string name="sample_extra">Extras : 21</string>
+    <string name="sample_balls">Balls :</string>
+    <string name="sample_dec">-</string>
+    <string name="sample_ball">0</string>
+    <string name="sample_inc">+</string>
+    <string name="sample_no_ball">No Ball</string>
+    <string name="sample">Wide Ball</string>
+    <string name="sample_runs_title">Runs :</string>
+    <string name="sample_button_one">1 Runs</string>
+    <string name="sample_button_2">2 Runs</string>
+    <string name="sample_button_three">3 Runs</string>
+    <string name="sample_button_four">4 Runs</string>
+    <string name="sample_button_six">6 Runs</string>
+    <string name="sample_wicket_title">Wickets :</string>
+    <string name="wicket_title">0</string>
+    <string name="button_reset">RESET</string>
+</resources>
